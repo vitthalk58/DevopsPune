@@ -1,0 +1,13 @@
+ [3:33 PM] Hamza, Mohd (DXC Luxoft)
+1. How do you find duplicate records in a table?  -- with/without row_number()
+
+select min(studentid) from student 
+
+select * from
+ ( select *,row_number(), over(partistion by studentid, order by studentid)) as rn from emp
+
+where rn>1
+
+
+
+select 

@@ -1,0 +1,51 @@
+Adhar No :- 395617363675
+Shital 942303801184
+
+SAL PWD 10037645aq&8t
+UAN : 100410837897
+      Qazx@123
+
+AWS Credtonal
+
+vitthalk
+PWD Xch1234
+
+CCXPB4605H
+kite id :  OVS114
+
+BCXPK8739C2006
+
+[12:27 PM] Kuldeep Dhiman
+ienable@coforge.com
+ 
+
+Chiranjeev hospital bhakti marag pandharpur
+
+VEDANT PATHOLOGY LAB, Jyoti complex Pandahrpur
+
+Vedanta pathology lab, Jyoti complex Pandahrpur
+
+IrCTC PWD Qazx@1234
+
+July 2023 3913   12371
+Aug  2023 3968   12371
+Sep  2023 3913   12376
+
+
+[3:06 PM] Updesh Kumar Gupta
+Coforge Business Process Solutions Pvt. Ltd
+
+2nd floor ,Shanti One IT Park, S No.206A/1, Plot No.88, F.P. No.4,
+
+Near Agakhan Palace, Pune-Nagar Road
+
+Yerwada Pune 411006 Maharashtra
+
+Abhijeet koli
+Anil kumar sarma
+ 
+
+
+find . -name '*file_Name*' -type f -mtime +30 -exec rm -rf {}\;
+
+Write a shell script to process data files in a Google Cloud Storage bucket. The script should download the files, perform some data processing, and then upload the processed files back to the same bucket.
